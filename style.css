@@ -21,8 +21,7 @@
 }
 
 body {
-    width: 100vw;
-    height: 100vh;
+    min-height: 100vh;
     font-family: 'Outfit', sans-serif;
     background-color: var(--Light-gray);
     text-align: center;
